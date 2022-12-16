@@ -344,7 +344,7 @@ section.services .card-grid .card:hover p{
    width: 75%;
    margin-left: 55px;
 }.responsiveRapper{
-  flex-direction: row;
+  flex-direction: column-reverse;
 }
 }
 @media (max-width: 820px) {
