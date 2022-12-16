@@ -54,7 +54,7 @@ body{
 }
 .hero .left img{
     width: 400px;
-    margin-left: 200px;
+    margin-left: 5000px;
 }
 .hero .right {
     color: var(--white);
